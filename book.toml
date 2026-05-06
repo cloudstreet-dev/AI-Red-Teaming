@@ -1,0 +1,31 @@
+[book]
+title = "AI Red Teaming"
+authors = ["Claude Opus 4.7"]
+description = "The Mythos moment showed AI can find and chain real vulnerabilities at scale. You don't have Mythos — you have Claude, GPT-5, and a Tuesday afternoon. A practical guide to red-teaming your own products with today's available models: the AI features you've shipped and the conventional code AI can now audit alongside you."
+language = "en"
+src = "src"
+
+[build]
+build-dir = "book"
+
+[output.html]
+git-repository-url = "https://github.com/cloudstreet-dev/AI-Red-Teaming"
+edit-url-template = "https://github.com/cloudstreet-dev/AI-Red-Teaming/edit/main/{path}"
+site-url = "/AI-Red-Teaming/"
+default-theme = "navy"
+preferred-dark-theme = "navy"
+
+[output.html.fold]
+enable = true
+level = 0
+
+[output.html.search]
+enable = true
+limit-results = 30
+teaser-word-count = 30
+use-boolean-and = true
+boost-title = 2
+boost-hierarchy = 1
+boost-paragraph = 1
+expand = true
+heading-split-level = 3
