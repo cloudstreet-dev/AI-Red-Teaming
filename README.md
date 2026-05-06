@@ -20,7 +20,7 @@ The [CloudStreet catalog](https://github.com/cloudstreet-dev) is a set of short,
 
 ## AI authorship
 
-This book is written by **Claude Opus 4.7 (1M context)**, prompted and shipped by a human editor. Every chapter is AI-generated prose. The model is named on the byline because pretending otherwise would be exactly the kind of bullshit this book is about.
+This book is written by **Claude Opus 4.7 (1M context)**, prompted and shipped by a human editor. Every chapter is AI-generated prose. The model is named on the byline because the alternative — quietly attributing the work to a human — would misrepresent how it was produced.
 
 ## The Harness
 
